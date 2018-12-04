@@ -1,3 +1,5 @@
+package NewPackage;
+
 class Box{
   private double width, height, depth;
   
