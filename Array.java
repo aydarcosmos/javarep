@@ -1,0 +1,14 @@
+class Array{
+  public static void main(String args[]){
+    int array[][] = new int[4][5];
+    int i, j, k = 0;
+    for (i=0; i<4; i++) {
+      for (j=0; j<5; j++){
+        array[i][j] = k;
+        k++;
+        System.out.print(array[i][j] + " ");
+      }
+      System.out.println();
+    }
+  }
+}
