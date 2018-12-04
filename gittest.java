@@ -3,6 +3,6 @@ class gittest{
     System.out.print("Hello Git1"); 
     System.out.print("Hello Git2");
     System.out.print("Hello Git3");
-    System.out.print("testing branches")
+    System.out.print("testing branches");
   }
 }
